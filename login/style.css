@@ -14,13 +14,7 @@ body{
 .image{
 
     margin-top: 0%;
-    height:70%;
-    
-    
-    
-
-    
-    
+    height:70%;    
     margin-right: 20%;
 }
 
@@ -39,9 +33,6 @@ body{
 .button:hover{
     background-color: red;
 }
-    
-    
-
 
 .info{
     background-color:#fa9f99;
