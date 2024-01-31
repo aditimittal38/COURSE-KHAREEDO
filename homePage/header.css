@@ -115,12 +115,14 @@
  }
  .nav-bar li a:hover{
     background-color:#776c6c41;
+    cursor: pointer;
  } 
 .dropdown{
     /* position:relative; */
     /* display: inline-block; */
     float: left;
     overflow: hidden;
+    cursor: pointer;
 }
 .dropdown-content{
     display: none;
@@ -136,6 +138,7 @@
     text-decoration: none;
     padding: 14px 14px;
     display:list-item;
+    cursor: pointer;
 
 }
 .dropdown-content :hover{
