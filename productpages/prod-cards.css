@@ -146,7 +146,7 @@ body{
     display: list-item;
 }
 
-
+/* 
 .buttons1{
     font-size: 15px;
     
@@ -162,6 +162,20 @@ body{
     
     
 
+} */
+.buttons1{
+    font-size: 15px;
+    justify-content: center;
+    display: flex;
+    color:white;
+    margin-top: 10px;
+    width:150px;
+    height:32px;
+    align-items: center;
+    margin-right: 50px;
+    background-color: red; 
+    border: none; 
+    outline:none;
 }
 .buttons1:hover{
     background-color:blue;
@@ -232,11 +246,6 @@ body{
     background-color:rgb(194, 170, 231);
     padding-left: 10%;
     
-    
-
-  
-    
-
 }
 
 

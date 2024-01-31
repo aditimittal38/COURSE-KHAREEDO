@@ -10,9 +10,8 @@
     margin-top:600px;
     margin-bottom: 0px;
     background: linear-gradient(to right,rgb(120, 82, 178),rgb(69, 69, 203));
-    /* background: linear-gradient(to right, #00093c, #2d0b00); */
     color: whitesmoke;
-    margin-left:220px;
+  
     font-size: 17px;
     line-height: 30px;
 }
