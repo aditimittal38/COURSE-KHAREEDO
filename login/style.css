@@ -33,6 +33,11 @@
 }
 .button:hover {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Add a box shadow */
+    background-color:rgb(9, 205, 240);
+    cursor: pointer;
+}
+.button:active{
+    background-color: rgba(0, 68, 255, 0.863);
 }
 
 .info{

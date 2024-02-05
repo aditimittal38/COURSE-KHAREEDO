@@ -59,3 +59,16 @@
     flex-basis: 25%;
 
 } */
+
+
+
+.changes-made{
+    color: white;
+}
+.changes-made:hover{
+    color: crimson;
+    cursor: pointer;
+}
+.changes-made:active{
+    color: blueviolet;
+}
